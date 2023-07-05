@@ -10,4 +10,6 @@
 8. 7-movethatfile: A script that moves files  
 9. 8-firstdelete: A script that deletes file betty
 10. 9-firstdirdeletion: A script that deletes a directory
-11.   
+11. 10-back: A script changes directory to the previous directory
+12. 11-lists: A script thatlist files 
+ 
