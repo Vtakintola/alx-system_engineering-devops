@@ -5,4 +5,5 @@
 3. 2-bring_me_home: A script that changes to home directory
 4. 3-listfiles: A script that lists files in a long format
 5. 4-listmorefiles: A script that lists all hidden files 
-6.   
+6. 5-listfilesdigitonly: A script that lists stuffs 
+7.    
