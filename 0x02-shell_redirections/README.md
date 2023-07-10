@@ -1,14 +1,10 @@
-0-iam_betty: A script that switches from current user
-1-who_am_i: A script that prints the username of current user
-2-groups: A script that prints the all groups the user belongs to
-3-new_owner: A script htat changes ownership of a file
-4-empty: A script that creates an empty file
-5-execute: A script that changes the dile mode of a file
-6-multiple_permissions: A script that canges the file mide of a file
-7-everybody: Same as the one above
-8-James_Bond: same as above
-9-John_Doe: Same as above
-10-mirror_permissions: Same thing
-11-directories_permissions: same chmod ..
-12-directory_permissions: A script that creates a dir with preset mode
-13-change_group: A script that ......
+1. 0-hello_world: A script that prints hello world
+2. 1-confused_smiley: A script that prints an output
+3. 2-hellofile: A script that displays the content of a file
+4. 3-twofiles: A script that displays the contents of two files
+5. 4-lastlines: A script that displays the last 10 lines of a file
+6. 5-firstlines: A acript that displays the first 10 lines of a file
+7. 6-third_line: A script that displays the third line of a file 
+8. 7-file: A script that create a useless ffile
+9. 8-cwd_state: A script that creates a file
+10. 9-duplicate_last_line: A script that duplicates the last line of a givn file11. 10-no_more_js: A script that deletes all js extensions ina directory amd subdirectories 
